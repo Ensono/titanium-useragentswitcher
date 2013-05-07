@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: Allow you to change the user agent on iOS webview
+author: Antony Koch
+license: Creative Commons
+copyright: Copyright (c) 2013 by Amido
+
+
+# these should not be edited
+name: agentswitcher
+moduleid: com.amido.agentswitcher
+guid: 8d01919e-bc48-4274-bd36-b10da00e0215
+platform: iphone
+minsdk: 3.0.0.GA
